@@ -14,9 +14,8 @@ Herramientas a utilizar:
 
 Platzinger es una app de mensajería instantánea inspirada en MSNmessenger, y con la cual podremos explotar mucho del potencial de lo que podemos hacer con Angular. Algunas de las características que tendrá esta app son:
 
-Registrarnos y hacer login
-Se podrán agregar amigos
-La comunicación será en tiempo real
-Subir fotos
-Se podrán enviar zumbidos
-y mucho más.
+- Registrarnos y hacer login
+- Se podrán agregar amigos
+- La comunicación será en tiempo real
+- Subir fotos
+- Se podrán enviar zumbidos y mucho más.
